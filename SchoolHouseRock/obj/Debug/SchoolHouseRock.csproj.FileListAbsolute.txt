@@ -1,0 +1,6 @@
+C:\Users\Nikole McStanley\tiy\week-4\SchoolHouseRock\SchoolHouseRock\SchoolHouseRock\bin\Debug\SchoolHouseRock.exe.config
+C:\Users\Nikole McStanley\tiy\week-4\SchoolHouseRock\SchoolHouseRock\SchoolHouseRock\bin\Debug\SchoolHouseRock.exe
+C:\Users\Nikole McStanley\tiy\week-4\SchoolHouseRock\SchoolHouseRock\SchoolHouseRock\bin\Debug\SchoolHouseRock.pdb
+C:\Users\Nikole McStanley\tiy\week-4\SchoolHouseRock\SchoolHouseRock\SchoolHouseRock\obj\Debug\SchoolHouseRock.csprojResolveAssemblyReference.cache
+C:\Users\Nikole McStanley\tiy\week-4\SchoolHouseRock\SchoolHouseRock\SchoolHouseRock\obj\Debug\SchoolHouseRock.exe
+C:\Users\Nikole McStanley\tiy\week-4\SchoolHouseRock\SchoolHouseRock\SchoolHouseRock\obj\Debug\SchoolHouseRock.pdb
